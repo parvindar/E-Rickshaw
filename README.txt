@@ -23,3 +23,6 @@ Database - this project uses mysql database.
 
 -----Interfacing code for sensors-----
 folder named "modules" inside proRick and proStand contains the interfacing code for the sensors we used.
+
+----- demo ----
+project demo video : https://www.youtube.com/watch?v=OOVv1LD5d8U
